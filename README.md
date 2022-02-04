@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexander Zagoruyko.
+- 👀 I’m interested in programming and rigging.
+- 🌱 I’m currently learning realtime engines.
+- 💞️ I’m looking to collaborate on cool projects.
+- 📫 Write me to azagoruyko@gmail.com
