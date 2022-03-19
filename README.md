@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Zagoruyko.
-- 👀 I’m interested in programming and rigging.
+- 👀 I’m interested in 3d graphics, programming and rigging.
 - 🌱 I’m currently learning realtime engines.
-- 💞️ I’m looking to collaborate on cool projects.
+- 💞️ I’m looking to collaborate on cool game/animation projects.
 - 📫 Write me to azagoruyko@gmail.com
 
 If you want to support me you're welcome!
