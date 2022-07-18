@@ -1,3 +1,6 @@
+Here in github some of my tools live.
+Don't be shy to suggest me improvements or send bug reports via issues or by email, azagoruyko@gmail.com.
+
 **Buy me a crypto beer**<br>
 197VXFacHv8VsYR1fQcs65sugBBQm1FSa5 *BTC*<br>
 0x27c561D37a9163ffeAFB9FC9999f088aE4544F3B *ETH*<br>
