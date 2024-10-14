@@ -8,11 +8,6 @@
 |0xDcf608a36039F2F209f45655e20429aeCC6bAf3B | ETH |
 |TQjqcU17rjLySqfMeXh3HrAX17CoDtrZmC | TRON USDT |
 
-Also don't hesitate to contact me if you need something useful or interesting, report bugs, suggestions, etc.
-|Method| |
-|-|-|
-|Email | azagoruyko@gmail.com|
-|Telegram | @azagoruyko |
-|Linkedin | https://www.linkedin.com/in/alexander-zagoruyko-1992a824|
-|Youtube|  https://www.youtube.com/@azagoruyko|
-
+Also don't hesitate to contact me if you need something useful or interesting, report bugs, suggestions, ideas, etc.
+### Contact
+azagoruyko@gmail.com
