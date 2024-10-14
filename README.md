@@ -8,7 +8,7 @@
 |0xDcf608a36039F2F209f45655e20429aeCC6bAf3B | ETH |
 |TQjqcU17rjLySqfMeXh3HrAX17CoDtrZmC | TRON USDT |
 
-Also don't hesitate to contact me.
+Also don't hesitate to contact me if you need something useful or interesting, report bugs, suggestions, etc.
 |Method| |
 |-|-|
 |Email | azagoruyko@gmail.com|
